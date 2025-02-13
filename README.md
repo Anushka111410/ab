@@ -1,4 +1,5 @@
 # Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+12345
 
 This is a curated list of Artificial Intelligence (AI) tools, courses, books, lectures, and papers. AI, or Artificial Intelligence, is a branch of computer science focused on creating machines that can perform tasks requiring human-like intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, and recognizing patterns. AI aims to mimic human cognitive functions, making machines capable of improving their performance based on experience, adapting to new inputs, and performing human-like tasks.
 
